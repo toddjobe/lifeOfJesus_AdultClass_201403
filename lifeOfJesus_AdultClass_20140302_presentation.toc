@@ -2,3 +2,6 @@
 \beamer@sectionintoc {1}{We do not deserve to be in the presence of Jesus.}{8}{0}{1}
 \beamer@sectionintoc {2}{But, Jesus is the only one with power to forgive us.}{11}{0}{2}
 \beamer@sectionintoc {3}{So, He comes to us, when we could not come to Him.}{13}{0}{3}
+\beamer@sectionintoc {5}{The Sabbath was for man's good}{21}{0}{4}
+\beamer@sectionintoc {6}{Jesus is Lord of the Sabbath}{24}{0}{5}
+\beamer@sectionintoc {7}{God's law does good.}{27}{0}{6}

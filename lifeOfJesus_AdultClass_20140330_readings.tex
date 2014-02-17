@@ -1,0 +1,75 @@
+\documentclass{tufte-handout}
+
+%\geometry{showframe}% for debugging purposes -- displays the margins
+
+\usepackage{amsmath}
+\usepackage{colortbl}
+% Set up the images/graphics package
+\usepackage{graphicx}
+\setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
+\graphicspath{{graphics/}}
+
+\title{The Life Of Christ: Readings}
+\author[WSCOC]{Walnut Street Church of Christ}
+\date{March 2014}  % if the \date{} command is left out, the current date will be used
+
+% The following package makes prettier tables.  We're all about the bling!
+\usepackage{booktabs}
+
+% The units package provides nice, non-stacked fractions and better spacing
+% for units.
+\usepackage{units}
+
+% The fancyvrb package lets us customize the formatting of verbatim
+% environments.  We use a slightly smaller font.
+\usepackage{fancyvrb}
+\fvset{fontsize=\normalsize}
+
+% Small sections of multiple columns
+\usepackage{multicol}
+
+% Provides paragraphs of dummy text
+\usepackage{lipsum}
+
+% These commands are used to pretty-print LaTeX commands
+\newcommand{\doccmd}[1]{\texttt{\textbackslash#1}}% command name -- adds backslash automatically
+\newcommand{\docopt}[1]{\ensuremath{\langle}\textrm{\textit{#1}}\ensuremath{\rangle}}% optional command argument
+\newcommand{\docarg}[1]{\textrm{\textit{#1}}}% (required) command argument
+\newenvironment{docspec}{\begin{quote}\noindent}{\end{quote}}% command specification environment
+\newcommand{\docenv}[1]{\textsf{#1}}% environment name
+\newcommand{\docpkg}[1]{\texttt{#1}}% package name
+\newcommand{\doccls}[1]{\texttt{#1}}% document class name
+\newcommand{\docclsopt}[1]{\texttt{#1}}% document class option name
+
+\begin{document}
+
+\maketitle% this prints the handout title, author, and date
+
+%\begin{abstract}
+%\noindent 
+%It also provides examples and comments on the style's use.  Only a brief
+%overview is presented here; for a complete reference, see the sample book.
+%\end{abstract}
+
+\begin{table*}[ht]
+  \centering
+  \fontfamily{ppl}\selectfont
+  \begin{tabular}{llllll}
+    \toprule
+    Date & Event & Matthew & Mark & Luke & John \\
+    \midrule
+    March 2 & The miraculous catch of fish & & & \textbf{5:1-11} & \\
+    March 2 & Jesus cures a paralytic & 8:2-4 & 1:40-45 & \textbf{5:12-16} & \\
+    March 2 & Jesus calls Levi & 9:9-17 & 2:13-22 & \textbf{5:29-39} & \\
+    March 9 & Man healed at pools of Bethesda & & & & \textbf{5:1-47} \\
+    March 9 & Disciples pick grain on the Sabbath & \textbf{12:1-8} & 2:23-28 & 6:1-5  & \\
+    March 9 & Man's hand healed on the Sabbath & \textbf{12:9-14} & 3:1-6 & 6:6-11 & \\
+    March 16 & Sermon on the Mount: part 1 & \textbf{5} &  & 6:20-49 & \\
+    March 23 & Sermon on the Mount: part 2 & \textbf{6} & & & \\
+    \rowcolor{yellow} March 30 & Sermon on the Mount: part 3 & \textbf{7} & & & \\
+    \bottomrule
+  \end{tabular}
+  \label{tab:readings}
+\end{table*}
+\sidenote{Key passages are highlighted in \textbf{bold}.}
+\end{document}

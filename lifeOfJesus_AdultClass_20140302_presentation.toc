@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Miraculous catch of fish}{7}{0}{1}
+\beamer@sectionintoc {2}{Jesus cures a paralytic}{9}{0}{2}
+\beamer@sectionintoc {3}{Matthew called to be a disciple}{10}{0}{3}

@@ -1,4 +1,4 @@
-\beamer@endinputifotherversion {3.10pt}
-\beamer@sectionintoc {1}{Miraculous catch of fish}{7}{0}{1}
-\beamer@sectionintoc {2}{Jesus cures a paralytic}{9}{0}{2}
-\beamer@sectionintoc {3}{Matthew called to be a disciple}{10}{0}{3}
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{We do not deserve to be in the presence of Jesus.}{8}{0}{1}
+\beamer@sectionintoc {2}{But, Jesus is the only one with power to forgive us.}{11}{0}{2}
+\beamer@sectionintoc {3}{So, He comes to us, when we could not come to Him.}{13}{0}{3}

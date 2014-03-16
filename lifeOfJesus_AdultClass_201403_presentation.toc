@@ -1,3 +1,5 @@
 \beamer@endinputifotherversion {3.10pt}
-\beamer@sectionintoc {1}{The Beatitudes}{5}{0}{1}
-\beamer@sectionintoc {2}{Kingdom Living}{7}{0}{2}
+\beamer@sectionintoc {1}{How can I be happy?}{5}{0}{1}
+\beamer@sectionintoc {2}{What's my purpose?}{7}{0}{2}
+\beamer@sectionintoc {3}{How do I know right from wong?}{9}{0}{3}
+\beamer@sectionintoc {4}{How do I keep my life in harmony?}{11}{0}{4}

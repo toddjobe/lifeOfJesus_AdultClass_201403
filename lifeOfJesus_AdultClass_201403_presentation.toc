@@ -1,4 +1,4 @@
-\beamer@endinputifotherversion {3.10pt}
-\beamer@sectionintoc {1}{We do not deserve to be in the presence of Jesus.}{8}{0}{1}
-\beamer@sectionintoc {2}{But, Jesus is the only one with power to forgive us.}{11}{0}{2}
-\beamer@sectionintoc {3}{So, He comes to those who want forgiveness.}{14}{0}{3}
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{The Beatitudes}{7}{0}{1}
+\beamer@sectionintoc {2}{Kingdom Living}{10}{0}{2}
+\beamer@sectionintoc {3}{Jesus appeals to reason}{13}{0}{3}
